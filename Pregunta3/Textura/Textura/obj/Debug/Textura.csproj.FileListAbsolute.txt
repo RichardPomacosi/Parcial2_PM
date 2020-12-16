@@ -1,0 +1,9 @@
+C:\Users\Rick\source\repos\Textura\Textura\bin\Debug\Textura.exe
+C:\Users\Rick\source\repos\Textura\Textura\bin\Debug\Textura.pdb
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.Form1.resources
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.Properties.Resources.resources
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.csproj.GenerateResource.cache
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.exe
+C:\Users\Rick\source\repos\Textura\Textura\obj\Debug\Textura.pdb
